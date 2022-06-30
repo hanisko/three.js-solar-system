@@ -1,0 +1,51 @@
+   {
+        "sun": {
+            "radius": 696340,
+            "distanceFromSun": 0,
+            "rotations": {
+                "ownAxis": 0,
+                "sun": 0
+            }
+        },
+        "mercury": {
+            "radius": 24398,
+            "distanceFromSun": 58000000,
+            "rotations": {
+                "ownAxis": 59,
+                "sun": 89
+            }
+        },
+        "venus": {
+            "radius": 6052,
+            "distanceFromSun": 67000000,
+            "rotations": {
+                "ownAxis": 243,
+                "sun": 225
+            }
+        },
+        "earth": {
+            "radius": 6371,
+            "distanceFromSun": 149600000,
+            "rotations": {
+                "ownAxis": 24,
+                "sun": 365
+            }
+        },
+        "moon": {
+            "radius": 1737,
+            "distanceFromSun": 149638400,
+            "distanceFromEarth": 384400,
+            "rotations": {
+                "ownAxis": 0,
+                "sun": 0
+            }
+        },
+        "mars": {
+            "radius": 3390,
+            "distanceFromSun": 228000000,
+            "rotations": {
+                "ownAxis": 24,
+                "sun": 687
+            }
+        }
+   }
